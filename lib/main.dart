@@ -77,7 +77,7 @@ class DrumPad extends StatelessWidget {
                   child: FlatButton(
                       onPressed: () {
                         oynatici.play(
-                            'clap1.wav'); //Basit bir şekilde anonim fonksiyon ile sesei yerleştirdim
+                            'clap1.wav'); //Basit bir şekilde anonim fonksiyon ile sesi yerleştirdim
                       },
                       child: Container(
                         width: 150,
@@ -89,7 +89,7 @@ class DrumPad extends StatelessWidget {
                   child: FlatButton(
                       onPressed: () {
                         oynatici.play(
-                            'clap2.wav'); //Basit bir şekilde anonim fonksiyon ile sesei yerleştirdim
+                            'clap2.wav'); //Basit bir şekilde anonim fonksiyon ile sesi yerleştirdim
                       },
                       child: Container(
                         width: 150,
@@ -122,7 +122,7 @@ class DrumPad extends StatelessWidget {
                   child: FlatButton(
                       onPressed: () {
                         oynatici.play(
-                            'how.wav'); //Basit bir şekilde anonim fonksiyon ile sesei yerleştirdim
+                            'how.wav'); //Basit bir şekilde anonim fonksiyon ile sesi yerleştirdim
                       },
                       child: Container(
                         width: 150,
@@ -143,7 +143,7 @@ class DrumPad extends StatelessWidget {
                   child: FlatButton(
                       onPressed: () {
                         oynatici.play(
-                            'ridebel.wav'); //Basit bir şekilde anonim fonksiyon ile sesei yerleştirdim
+                            'ridebel.wav'); //Basit bir şekilde anonim fonksiyon ile sesi yerleştirdim
                       },
                       child: Container(
                         width: 150,
@@ -155,7 +155,7 @@ class DrumPad extends StatelessWidget {
                   child: FlatButton(
                       onPressed: () {
                         oynatici.play(
-                            'woo.wav'); //Basit bir şekilde anonim fonksiyon ile sesei yerleştirdim
+                            'woo.wav'); //Basit bir şekilde anonim fonksiyon ile sesi yerleştirdim
                       },
                       child: Container(
                         width: 150,
